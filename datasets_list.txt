@@ -1,0 +1,5 @@
+http://csl.stanford.edu/~christos/data/histogram.tar.gz
+http://csl.stanford.edu/~christos/data/linear_regression.tar.gz
+http://csl.stanford.edu/~christos/data/reverse_index.tar.gz
+http://csl.stanford.edu/~christos/data/string_match.tar.gz
+http://csl.stanford.edu/~christos/data/word_count.tar.gz
