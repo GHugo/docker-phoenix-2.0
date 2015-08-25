@@ -13,11 +13,11 @@ Retrieve the image from DockerHub:
 
 Launch word_count on the 100MB dataset:
 
-`docker run phoenix-2.0 /phoenix/phoenix-2.0/tests/word_count/word_count /data/word_count_datafiles/word_100MB.txt`
+`docker run ghugo/phoenix-2.0 /phoenix/phoenix-2.0/tests/word_count/word_count /data/word_count_datafiles/word_100MB.txt`
 
 Time histogram execution:
 
-`docker run phoenix-2.0 bash -c "time /phoenix/phoenix-2.0/tests/histogram/histogram /data/histogram_datafiles/small.bmp"`
+`docker run ghugo/phoenix-2.0 bash -c "time /phoenix/phoenix-2.0/tests/histogram/histogram /data/histogram_datafiles/small.bmp"`
 
 All the datasets are in **/data**.
 
