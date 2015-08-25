@@ -1,6 +1,6 @@
 ## Phoenix-2.0
 
-Container for phoenix-2.0.
+Container for phoenix-2.0 (see [official repository](https://github.com/kozyraki/phoenix/)).
 Automatically download datasets.
 
 ### Installation
